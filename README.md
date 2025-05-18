@@ -1,5 +1,4 @@
-Here’s a refined and more structured version of your regex notes, with key topics and explanations streamlined for better clarity and usefulness:
-
+# Regex Notes
 ---
 
 ### Regular Expressions (Regex) Notes
