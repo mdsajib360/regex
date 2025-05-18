@@ -16,8 +16,7 @@ const regex = /the/i;
 console.log(regex.test(string))
 
 ```
-- Match Literal Strings :
-  - regex are case sensitive
+
 - Match different possibilities:
   - Using regexes like /coding/, you can look for the pattern coding in another string.
 ```
