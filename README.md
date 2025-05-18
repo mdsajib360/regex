@@ -106,4 +106,3 @@
 
 ---
 
-This structure provides a clear breakdown of essential regex concepts and practical examples for easier reference and learning.
