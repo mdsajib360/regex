@@ -106,3 +106,14 @@
 
 ---
 
+### Match Letters of the Alphabet
+ - regex matches single character that's why we use ig flag to matches all . [a-z] target all the alphabets.
+```javascript
+  let quoteSample = "The quick brown fox jumps over the lazy dog.";
+let alphabetRegex = /[a-z]/ig; // Change this line
+let result = quoteSample.match(alphabetRegex); // Change this line
+
+console.log(result.length)
+```
+
+
